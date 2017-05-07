@@ -1,0 +1,23 @@
+Below you should enter your database connection details. If you’re not sure about these, contact your host.
+
+Database Name
+
+celine-portfolio-db
+The name of the database you want to use with WordPress.
+Username
+
+root
+Your database username.
+Password
+
+root
+Your database password.
+Database Host
+
+localhost
+You should be able to get this info from your web host, if localhost doesn’t work.
+Table Prefix
+
+wp_
+If you want to run multiple WordPress installations in a single database, change this.
+Submit
